@@ -1,0 +1,1 @@
+# SceduleManager-Discord-GAS
